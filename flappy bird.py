@@ -11,9 +11,9 @@ SCREEN = pygame.display.set_mode((SCREENWIDTH, SCREENHEIGHT))
 GROUNDY = SCREENHEIGHT * 0.8
 GAME_SPRITES = {}
 GAME_SOUNDS = {}
-PLAYER = 'C:/Users/vishu/OneDrive/Desktop/flappy/sprites/bird.png'
-BACKGROUND = 'C:/Users/vishu/OneDrive/Desktop/flappy/sprites/background.png'
-PIPE = 'C:/Users/vishu/OneDrive/Desktop/flappy/sprites/pipe.png'
+PLAYER = 'C:/Users/tush/OneDrive/Desktop/flappy/media/bird.png'  #location of the png file 'BIRD'
+BACKGROUND = 'C:/Users/tush/OneDrive/Desktop/flappy/media/background.png' #location of the png file 'BACKGROUND'
+PIPE = 'C:/Users/tush/OneDrive/Desktop/flappy/media/pipe.png' #location of the png file 'PIPE'
 
 def welcomeScreen():
     """
